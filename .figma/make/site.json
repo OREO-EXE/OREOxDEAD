@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your engineering creativity with a unique portfolio that mimics a physical workspace, highlighting projects in cybersecurity, software, and aerospace.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
