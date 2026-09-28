@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import myPhoto from "./imports/___her___.jpgdsadsadsad.jpg";
 
 const projects = [
   {
@@ -404,7 +405,7 @@ export default function App() {
           <Tape className="about-tape" />
           <div className="profile-side">
             <div className="profile-polaroid">
-              <img src="/profile.png" className="avatar-photo" alt="Oreo in the lab" />
+              <img src={myPhoto} className="avatar-photo" alt="Oreo in the lab" />
               <p>OREO IN THE LAB_</p>
             </div>
             <div className="id-note">
